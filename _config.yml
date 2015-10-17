@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Cody Landry's Blog
+tagline: Software Development and Life
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Cody Landry
+  email : cody.landry@me.com
+  github : codylandry
   twitter : username
   feedburner : feedname
 
@@ -78,9 +78,9 @@ JB :
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
-  #
+  #disqus
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
