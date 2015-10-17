@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dbf56f2-3a07-498c-bd3e-7e5ff61cfc01" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-16-first-post.MARKUP" afterPath="$PROJECT_DIR$/_posts/2015-10-16-first-post.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-16-first-post.markdown" afterPath="$PROJECT_DIR$/_posts/2015-10-16-first-post.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="codylandry.github.com.iws" />
@@ -44,8 +44,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-10-16-first-post.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-10-16-first-post.markdown">
+      <file leaf-file-name="2015-10-16-first-post.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-10-16-first-post.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
@@ -361,7 +361,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445043168834</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testing jekyll">
+      <created>1445043341355</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1445043341355</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -419,7 +425,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-10-16-first-post.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-16-first-post.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
