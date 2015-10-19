@@ -7,7 +7,8 @@
 /* line 13, ../_sass/_base.scss */
 html, body {
   background-color: #2a2a2a;
-  background: url(../images/bgs/body.png) repeat;
+  background-image: url('../../../../img/bkgdblurred.jpg');
+  background-size: cover;
 }
 
 /* line 18, ../_sass/_base.scss */
@@ -31,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 35, ../_sass/_base.scss */
 a {
-  color: #4cb4e8;
+  color: #fed136;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
