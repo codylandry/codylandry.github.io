@@ -341,6 +341,17 @@ header .intro-text .intro-heading {
     }
 }
 
+@media(max-width: 600px){
+    header .intro-text .intro-heading {
+        margin-bottom: 20px;
+        text-transform: uppercase;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 35px;
+        font-weight: 500;
+        line-height: 35px;
+    }
+}
+
 section {
     padding: 100px 0;
 }
@@ -670,6 +681,12 @@ section h3.section-subheading {
 
 aside.clients img {
     margin: 50px auto;
+}
+
+@media screen and (max-width: 1000px){
+    aside.clients {
+        display: none;
+    }
 }
 
 section#contact {
