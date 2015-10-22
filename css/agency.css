@@ -9,6 +9,43 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+    .col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
 #rcorners1 {
     border-radius: 25px;
     background: #8AC007;
@@ -339,6 +376,7 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+
 }
 
 @media(max-width: 600px){
@@ -350,6 +388,15 @@ header .intro-text .intro-heading {
         font-weight: 500;
         line-height: 35px;
     }
+
+}
+
+@media(max-width: 768px){
+    #team .team-member {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
 }
 
 section {
