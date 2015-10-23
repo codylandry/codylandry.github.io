@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dbf56f2-3a07-498c-bd3e-7e5ff61cfc01" name="Default" comment="">
+    <list default="true" id="0dbf56f2-3a07-498c-bd3e-7e5ff61cfc01" name="Default" comment="testing disqus &#10;&#10;attempting to fix issue with comment area">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -69,8 +69,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57667387">
-              <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.73866093">
+              <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="92" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -587,7 +587,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445568866564</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="testing disqus &#10;&#10;attempting to fix issue with comment area">
+      <created>1445569027518</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1445569027518</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -642,7 +648,8 @@
     <MESSAGE value="added tags to first blog post" />
     <MESSAGE value="fixed skills section columns" />
     <MESSAGE value="testing disqus functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing disqus functionality" />
+    <MESSAGE value="testing disqus &#10;&#10;attempting to fix issue with comment area" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing disqus &#10;&#10;attempting to fix issue with comment area" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1154,8 +1161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57667387">
-          <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.73866093">
+          <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="92" selection-end-column="17" />
           <folding />
         </state>
       </provider>
