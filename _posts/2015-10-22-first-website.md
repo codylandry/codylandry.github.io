@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making History!
+tags: web, blogging, github, jekyll, pycharm, bootstrap
 ---
 
 ## Humble Beginnings

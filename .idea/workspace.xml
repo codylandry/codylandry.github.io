@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dbf56f2-3a07-498c-bd3e-7e5ff61cfc01" name="Default" comment="1. Fixed Responsiveness of 'My Team'&#10;2. Changed Contact Info to linkedin from email&#10;">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-10-16-first-post.md" afterPath="$PROJECT_DIR$/_posts/2015-10-22-first-website.md" />
+    <list default="true" id="0dbf56f2-3a07-498c-bd3e-7e5ff61cfc01" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-22-first-website.md" afterPath="$PROJECT_DIR$/_posts/2015-10-22-first-website.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="codylandry.github.com.iws" />
@@ -68,8 +68,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55773956">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.11056511">
+              <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -713,7 +713,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445555258928</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Added First Blog Post!">
+      <created>1445558468734</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1445558468734</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -764,7 +770,8 @@
     <MESSAGE value="Fixed responsiveness issue with header" />
     <MESSAGE value="Fixing Grammatical Errors" />
     <MESSAGE value="1. Fixed Responsiveness of 'My Team'&#10;2. Changed Contact Info to linkedin from email&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Fixed Responsiveness of 'My Team'&#10;2. Changed Contact Info to linkedin from email&#10;" />
+    <MESSAGE value="Added First Blog Post!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added First Blog Post!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1229,8 +1236,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55773956">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.11056511">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
           <folding />
         </state>
       </provider>
