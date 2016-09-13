@@ -950,3 +950,12 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.sf-logo{
+    justify-content: center;
+    align-items: center;
+    width: 88%;
+    padding: 3px;
+    border-radius: unset;
+    margin: auto;
+}
